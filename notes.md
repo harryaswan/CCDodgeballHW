@@ -17,12 +17,14 @@ Coach
 
 ---
 
-Team    - Name
+Team
+        - Name
         - Location
         - ID
         - matches() - pass true for games played only, false for games not played, nil for all games
 
-Match   - Away_Team_ID
+Match
+        - Away_Team_ID
         - Home_Team_ID
         - Winning_team_id
         - ID
